@@ -1,3 +1,4 @@
+print ("enter day and km")
 x = int(input())
 y = int(input())
 i = 1
